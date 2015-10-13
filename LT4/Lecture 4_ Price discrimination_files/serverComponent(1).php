@@ -1,0 +1,2 @@
+
+Bootstrapper._serverTime = '2015-10-13 18:42:18'; Bootstrapper._clientIP = '0.0.0.0'; var psj0 = 'https://nexus.ensighten.com/msft_khronos/Aspen/code/3f6ab7ff0040f56e6d1414a8f6b54bfe.js';Bootstrapper.loadScriptCallback(psj0, Bootstrapper.callOnPageSpecificCompletion);Bootstrapper.setPageSpecificDataDefinitionIds([])

@@ -1,0 +1,91 @@
+/* $Id: subNavigation.css 103282 2012-07-11 16:21:29Z konige $
+   /css/0.1/screen/section/business/subNavigation.css
+   (c)2006 - 2008 The New York Times Company  */
+
+.navigation ul li.selected {
+  background-color: #fff;
+}
+
+.subNavigation { 
+  background: #fff url(/images/section/business/searchBarBG.gif) repeat-x scroll left bottom;
+  padding-right: 0;
+}
+
+.subNavigation ul li {
+    padding: 0 9px;
+}
+
+.subNavigation ul li.first {
+    padding: 0 9px 0 0;
+}
+
+.subNavigation ul li.last {
+    padding: 0 0 0 9px;
+}
+
+.subNavigation .column { 
+  height: 50px; 
+  min-height: 50px;
+}
+
+.subNavigation .inlineSearchControl .text { 
+  width: 184px;
+}
+
+.subNavigation select { 
+  width: 150px;
+}
+
+/* last column */
+.subNavigation div.last ul li { 
+  height: 28px; 
+}
+
+.subNavigation div.last li.first { 
+  width: 50px;
+}
+
+.subNavigation div.last li.five { 
+  width: 61px; 
+}
+
+.subNavigation div.last li.six {
+  width: 49px;
+}
+
+.subNavigation div.last li.seven { 
+  width: 36px; 
+}
+
+.subNavigation div.last li.last { 
+  width: 68px; 
+}
+
+/* query suggestions autocomplete */ 
+.subNavigation .querySuggestions {  
+  width: 360px !important;
+}
+
+.subNavigation .querySuggestions ul li {
+  padding: 1px 5px 1px 5px;	
+  font-size: 1.2em;
+}
+
+.subNavigation .querySuggestions span { 
+  float: left; 
+  width: 80px;
+  display: block;
+}
+
+.subNavigation input.greyed { 
+  color: #888;
+}
+
+/* Hacks */
+.subNavigation .inlineSearchControl .text {
+  _width: 176px;
+}
+
+.subNavigation select {
+  *width: 144px;
+}

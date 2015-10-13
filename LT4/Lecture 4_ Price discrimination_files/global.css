@@ -1,0 +1,175 @@
+/* forms */
+
+.contact-us-forms .control-label
+{
+    color: #fff;
+    font-size: 17px;
+    padding: 0 10px 0;
+    background-color: #211c5b;
+    text-align: left;
+    height: 49px;
+    line-height: 49px;
+    font-weight: normal;
+    border-bottom: 1px solid #64618d;
+}
+
+.contact-us-forms .control-label.odd
+{
+    background-color: #071750;
+}
+
+.contact-us-forms .right-item
+{
+    background-color: #fff;
+    height: 49px;
+    padding: 4px;
+}
+
+.contact-us-forms .right-item input
+{
+    background-color: #d3d2de;
+}
+
+.contact-us-forms .form-control:active, .contact-us-forms .form-control:focus, .contact-us-forms .form-control:hover {
+    background-color: #d3d2de;
+}
+
+.contact-us-forms .form-group
+{
+    margin-bottom: 0;
+    /*border-bottom: 1px solid #64618d;*/
+}
+
+.contact-us-forms .left, .contact-us-forms .right
+{
+    float: left;
+    width: 50%;
+    height: 51px;
+    border-bottom: 1px solid #525d85;
+}
+ 
+.contact-us-forms .right
+{
+    border-bottom: 1px solid #b7bdd0;
+}
+
+.contact-us-forms .texarea
+{
+    height: 76px;
+}
+
+.contact-us-forms .left
+{
+    background-color: #211c5b;
+}
+
+.contact-us-forms .left.odd
+{
+    background-color: #071750;
+}
+
+.contact-us-forms .right
+{
+    background-color: #fff;
+    padding: 3px;
+}
+
+.contact-us-forms .right input, .contact-us-forms textarea, .contact-us-forms select
+{
+    background-color: #d3d2de !important;
+}
+
+textarea
+{
+    min-height: 69px;
+    resize: none;
+}
+
+.form-feedback-label
+{
+    background-color: #211c5b;
+    color: #fff;
+    width: 100%;
+    padding: 11px;
+    margin-bottom: 0;
+    line-height: 22px !important;
+}
+
+.form-feedback-label.odd
+{
+    background-color: #071750;
+}
+
+.contact-us-forms
+{
+    width: 70%;
+    margin: 35px auto 0;
+}
+
+.contact-us-forms .form-feedback
+{
+    background-color: #fff;
+    padding: 3px;
+}
+
+.feedback-forms-btn-wrapper
+{
+    float: right;
+    width: 200px;
+    margin-top: 10px;
+}
+
+.contact-us-forms label
+{
+    line-height: 49px;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.contact-us-forms .form-control
+{
+    color: #071750;
+    height: 3.4em;
+}
+
+.contact-us-forms .feedbackTextarea
+{
+    min-height: 100px;
+}
+
+
+@media (max-width: 767px)
+{
+    .contact-us-forms
+    {
+        width: 92%;
+    }
+    .contact-us-forms .left, .contact-us-forms .right
+    {
+        border-bottom: none;
+        float: none;
+        width: 100%;
+    }
+    .contact-us-forms .right, .contact-us-forms .form-feedback
+    {
+        background-color: transparent;
+        border-bottom: none;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .contact-us-forms .form-control
+    {
+        height: 3.5em;
+    }
+    .contact-us-forms label
+    {
+        line-height: 40px;
+        font-size: 13px;
+    }
+    .feedback-forms-btn-wrapper
+    {
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}

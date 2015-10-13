@@ -1,0 +1,24 @@
+OX_4067348618({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"http://ox-d.nytimes.servedbyopenx.com/{medium}/1.0/{rtype}?bi=1fe4af62-5608-4be7-ad22-e7ec34d0faa4&ts={txn_state}",
+    "adunits" : [
+      {
+        "auid":"537978299",
+        "chain":[
+          {
+            "is_fallback":1,
+            "ad_id":"0",
+            "width":"300",
+            "height":"250",
+            "html":"<script src=\"https://www.googletagservices.com/tag/js/gpt.js\"> googletag.pubads().definePassback(\n\"/29390238/passback\", [300, 250])\n.setTargeting(\"dp\", \"openx\")\n.display();\n</script>\n",
+            "target":"_blank",
+            "ts":"1fHJpZD1iYmIyMmJkNS1hMzkzLTRjOTYtOGQzNS1hZDMwMmQwYzhkN2V8cnQ9MTQ0NDc2MTc2OHxhdWlkPTUzNzk3ODI5OXxhdW09RE1JRC5XRUJ8c2lkPTUzNjg3MTQ3MHxwdWI9NTM2ODcyMzM2fHBjPVVTRHxyYWlkPWUyMjYyMmYxLTEzOGItNGZjOS1iZWRlLWExZWMwNGExZTBhMXx1cj1HU2NHUzhKY1VJ",
+            "type":"html",
+            "ad_url":"<script src=\"https://www.googletagservices.com/tag/js/gpt.js\"> googletag.pubads().definePassback(\n\"/29390238/passback\", [300, 250])\n.setTargeting(\"dp\", \"openx\")\n.display();\n</script>\n"
+          }
+        ]
+      }
+    ]
+  }
+});
