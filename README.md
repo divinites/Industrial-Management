@@ -9,4 +9,6 @@ To teach core principles in a way that is accessible to students with basic math
 
 The lecture slides are made by Impress.js.
 
+# Since I am no longer in charge of this course, the development of this repo is unlikely to be active, but the material is still made public, maybe someday I will use part of the materials to develop a new course.
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
