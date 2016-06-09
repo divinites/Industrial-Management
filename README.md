@@ -1,4 +1,4 @@
-<font color="red">Since I am no longer in charge of this course, the development of this repo is unlikely to be active, but the material is still made public, maybe someday I will use part of the materials to develop a new course.</font>
+**Since I am no longer in charge of this course, the development of this repo is unlikely to be active, but the material is still made public, maybe someday I will use part of the materials to develop a new course.**
 
 # Industrial-Management
 Industrial Management is run by the Business School for students in the College of Science and Engineering. The course is designed to assist non-specialist students to acquire understanding of business organisations and management processes, and their relevance in complementing technical skills. The course is designed both to be self-contained for those who do not intend to study the subject further, and to complement Techniques of Management for Scientists and Engineers and other business courses that may be undertaken within Science and Engineering for accreditation purposes.
